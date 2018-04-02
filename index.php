@@ -1,5 +1,7 @@
 <?php 
 
-echo "Hello word";
+echo "sudo"
+
+echo "sudo"
 
 ?>
